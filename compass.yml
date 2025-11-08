@@ -1,0 +1,16 @@
+name: n8n
+id: ari:cloud:compass:c4ebbb3b-a702-4353-8304-87f13b1896a1:component/9a772f5b-c99f-489b-b1a4-d2bedb151a5c/e475c50c-2e21-4301-abcf-754a726e5cd9
+description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Duvall-Global-LLC/n8n
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
